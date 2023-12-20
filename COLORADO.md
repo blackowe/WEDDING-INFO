@@ -33,6 +33,12 @@ Notes:    <br>
 Alcohol in house <br>
 Catering in house
 
+### -----------------------------------------------------------------###
+
+## 2.) Red Rock Barn
+website with prices = https://redrocksbarn.com/wedding-rental-cost-package/
+
+
 # ---------------------------------------------------------------------- #
 
 # Denver #
