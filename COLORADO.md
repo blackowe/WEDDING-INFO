@@ -20,7 +20,7 @@ Friday and Saturday: $250/hour \
 CAN GET DISCOUNT IF SET UP CHAIRS OURSELVES \
 See website for details
 Need to get caterer
-# ---------------------------------------------------------------------- #
+### ---------------------------------------------------------------------- ###
 
 # Colorado Springs #
 ## 1.) Almagre ##
@@ -33,25 +33,31 @@ Notes:    <br>
 Alcohol in house <br>
 Catering in house
 
-### -----------------------------------------------------------------###
+### ----------------------------------------------------------------- ###
 
 ## 2.) Red Rock Barn ##
 website with prices = https://redrocksbarn.com/wedding-rental-cost-package/
 
-# ---------------------------------------------------------------------- #
+### ---------------------------------------------------------------------- ###
 
 ## 3.) La Foret Conference & Retreat Center
 website = https://www.herecomestheguide.com/wedding-venues/colorado/la-foret-conference-and-retreat-center
-# ------------------------------------------------------------------------- #
+### ------------------------------------------------------------------------- ###
 
 # Denver (GOLDEN) #
 ## 1.) Goosetown Station ##
 
-
-# ------------------------------------------------------------------------
+### ------------------------------------------------------------------------ ###
 ## 2.) Crystal Rose  ##
 website = https://www.herecomestheguide.com/wedding-venues/colorado/crystal-rose-highlands-ranch  <br>
+### ------------------------------------------------------------------------ ###
 
+## 3.) The Pines by Wedgewood Weddings ##
+website = https://www.theknot.com/marketplace/the-pines-by-wedgewood-weddings-golden-co-367449
+pricing = https://pricing-sheets.s3.amazonaws.com/55664874-dfef-4cae-be29-3a64c561c5ff/c5b9091deab3795eec43b7ff11657118397c6004/cd8e0623-f60e-4f6a-8d28-4af38abffae4
 
+# Boulder  #
 
-
+## 1.) Museum of Contemporary Arts
+website = https://www.theknot.com/marketplace/boulder-museum-of-contemporary-art-boulder-co-888035
+pricing pdf = https://pricing-sheets.s3.amazonaws.com/22739429-1907-48b2-ae03-a4d101192b3e/78cdbfe82a4e066d1afb26915e41abd232c546ca/76bfe812-250e-4f12-a364-911c5ead381b
