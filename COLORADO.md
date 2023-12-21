@@ -35,14 +35,22 @@ Catering in house
 
 ### -----------------------------------------------------------------###
 
-## 2.) Red Rock Barn
+## 2.) Red Rock Barn ##
 website with prices = https://redrocksbarn.com/wedding-rental-cost-package/
-
 
 # ---------------------------------------------------------------------- #
 
+## 3.) La Foret Conference & Retreat Center
+website = https://www.herecomestheguide.com/wedding-venues/colorado/la-foret-conference-and-retreat-center
+# ------------------------------------------------------------------------- #
+
 # Denver (GOLDEN) #
-## 1.) Goosetown Station
+## 1.) Goosetown Station ##
+
+
+# ------------------------------------------------------------------------
+## 2.) Crystal Rose  ##
+website = https://www.herecomestheguide.com/wedding-venues/colorado/crystal-rose-highlands-ranch  <br>
 
 
 
