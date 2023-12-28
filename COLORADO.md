@@ -30,8 +30,8 @@ website with prices = https://redrocksbarn.com/wedding-rental-cost-package/
 ### ---------------------------------------------------------------------- ###
 
 ## 2.) The Poderosa Lodge
-website = https://www.laforet.org/weddings-and-receptions
-pricing pdf = https://www.laforet.org/_files/ugd/e5e53a_a433c0a043ec41e7811da47ca121b404.pdf
+website = https://www.laforet.org/weddings-and-receptions    <br>
+pricing pdf = https://www.laforet.org/_files/ugd/e5e53a_a433c0a043ec41e7811da47ca121b404.pdf   <br>
 
 ### ------------------------------------------------------------------------- ###
 
