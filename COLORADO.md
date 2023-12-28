@@ -44,6 +44,17 @@ website with prices = https://redrocksbarn.com/wedding-rental-cost-package/
 website = https://www.herecomestheguide.com/wedding-venues/colorado/la-foret-conference-and-retreat-center
 ### ------------------------------------------------------------------------- ###
 
+## 4.) RESTAURANT RENTOUT - Jack Quinn's Attic Iris pub  ##
+event pdf = https://jackquinnspub.com/wp-content/uploads/2023/06/Jack-Quinns-Banquet-Information-Spring-Summer-2023.pdf   <br>
+3D look around  = https://www.visitcos.com/directory/jack-quinns-irish-pub-restaurant-restaurant-meeting-space/    <br>
+
+$3K - rental fee for 2nd floor Fri/Sat night
+A floor  buyout is required Friday and Saturday evenings.
+On Sunday through Thursday evenings, or for afternoon parties seven days a
+week there is a $750 minimum spend to rent the floor. During March and
+December months the minimum spend for an event held Sunday-Thursday will
+increase to $1000. 
+
 # Denver (GOLDEN) #
 ## 1.) Goosetown Station ##
 
