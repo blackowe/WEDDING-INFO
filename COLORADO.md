@@ -29,8 +29,10 @@ website with prices = https://redrocksbarn.com/wedding-rental-cost-package/
 
 ### ---------------------------------------------------------------------- ###
 
-## 2.) La Foret Conference & Retreat Center
-website = https://www.herecomestheguide.com/wedding-venues/colorado/la-foret-conference-and-retreat-center
+## 2.) The Poderosa Lodge
+website = https://www.laforet.org/weddings-and-receptions
+pricing pdf = https://www.laforet.org/_files/ugd/e5e53a_a433c0a043ec41e7811da47ca121b404.pdf
+
 ### ------------------------------------------------------------------------- ###
 
 ## 3.) Secret Window Colorado Springs  ##
