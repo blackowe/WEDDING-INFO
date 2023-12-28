@@ -23,28 +23,25 @@ Need to get caterer
 ### ---------------------------------------------------------------------- ###
 
 # Colorado Springs #
-## 1.) Almagre ##
 
-website = https://www.almagrevenue.com/    <br>
-
-Costs:  <br>
-see this pdf : https://static1.squarespace.com/static/5c3cd9738ab722198eebd8a3/t/656f559711f3363b3f7b3a69/1701795230352/FINAL+2024+Pricing+Guide+%281%29.pdf    <br>
-Notes:    <br>
-Alcohol in house <br>
-Catering in house
-
-### ----------------------------------------------------------------- ###
-
-## 2.) Red Rock Barn ##
+## 1.) Red Rock Barn ##
 website with prices = https://redrocksbarn.com/wedding-rental-cost-package/
 
 ### ---------------------------------------------------------------------- ###
 
-## 3.) La Foret Conference & Retreat Center
+## 2.) La Foret Conference & Retreat Center
 website = https://www.herecomestheguide.com/wedding-venues/colorado/la-foret-conference-and-retreat-center
 ### ------------------------------------------------------------------------- ###
 
-## 4.) RESTAURANT RENTOUT - Jack Quinn's Attic Iris pub  ##
+## 3.) Secret Window Colorado Springs  ##
+https://www.secretwindowevents.com/
+
+## 4.) Venue 719  ##
+https://venue719.com/pricing/
+
+### ------------------------------------------------------------------------- ###
+
+## 5.) RESTAURANT RENTOUT - Jack Quinn's Attic Iris pub  ##
 event pdf = https://jackquinnspub.com/wp-content/uploads/2023/06/Jack-Quinns-Banquet-Information-Spring-Summer-2023.pdf   <br>
 3D look around  = https://www.visitcos.com/directory/jack-quinns-irish-pub-restaurant-restaurant-meeting-space/    <br>
 
@@ -54,6 +51,12 @@ On Sunday through Thursday evenings, or for afternoon parties seven days a
 week there is a $750 minimum spend to rent the floor. During March and
 December months the minimum spend for an event held Sunday-Thursday will
 increase to $1000. 
+
+### ------------------------------------------------------------------------- ###
+## 6.) RESTAURANT RENTOUT - Local Relic Artisan Ales  ##
+website = https://localrelic.com/hostanevent/    <br>
+Need to email for event pricing - probably expensive?
+
 
 # Denver (GOLDEN) #
 ## 1.) Goosetown Station ##
