@@ -39,7 +39,7 @@ pricing pdf = https://www.laforet.org/_files/ugd/e5e53a_a433c0a043ec41e7811da47c
 https://www.secretwindowevents.com/
 
 ## 4.) Venue 719  ##
-https://venue719.com/pricing/
+https://venue719.com/
 
 ### ------------------------------------------------------------------------- ###
 
