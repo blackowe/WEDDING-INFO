@@ -31,13 +31,7 @@ website = https://www.vuerooftop-dillon.com/
 
 # Colorado Springs #
 
-## 1.) Red Rock Barn ##
-website with prices = https://redrocksbarn.com/wedding-rental-cost-package/
-
-### ---------------------------------------------------------------------- ###
-
-
-## 5.) RESTAURANT RENTOUT - Jack Quinn's Attic Iris pub  ##
+##  RESTAURANT RENTOUT - Jack Quinn's Attic Iris pub  ##
 event pdf = https://jackquinnspub.com/wp-content/uploads/2023/06/Jack-Quinns-Banquet-Information-Spring-Summer-2023.pdf   <br>
 3D look around  = https://www.visitcos.com/directory/jack-quinns-irish-pub-restaurant-restaurant-meeting-space/    <br>
 
@@ -49,7 +43,7 @@ December months the minimum spend for an event held Sunday-Thursday will
 increase to $1000. 
 
 ### ------------------------------------------------------------------------- ###
-## 6.) RESTAURANT RENTOUT - Local Relic Artisan Ales  ##
+##  RESTAURANT RENTOUT - Local Relic Artisan Ales  ##
 website = https://localrelic.com/hostanevent/    <br>
 Need to email for event pricing - probably expensive?
 
