@@ -22,6 +22,13 @@ See website for details
 Need to get caterer
 ### ---------------------------------------------------------------------- ###
 
+## 2. Vue Rooftop Bar (Dillon) ##
+website = https://www.vuerooftop-dillon.com/
+(bad food/reviews)
+
+### ---------------------------------------------------------------------- ###
+
+
 # Colorado Springs #
 
 ## 1.) Red Rock Barn ##
@@ -29,19 +36,6 @@ website with prices = https://redrocksbarn.com/wedding-rental-cost-package/
 
 ### ---------------------------------------------------------------------- ###
 
-## 2.) The Poderosa Lodge
-website = https://www.laforet.org/weddings-and-receptions    <br>
-pricing pdf = https://www.laforet.org/_files/ugd/e5e53a_a433c0a043ec41e7811da47ca121b404.pdf   <br>
-
-### ------------------------------------------------------------------------- ###
-
-## 3.) Secret Window Colorado Springs  ##
-https://www.secretwindowevents.com/
-
-## 4.) Venue 719  ##
-https://venue719.com/
-
-### ------------------------------------------------------------------------- ###
 
 ## 5.) RESTAURANT RENTOUT - Jack Quinn's Attic Iris pub  ##
 event pdf = https://jackquinnspub.com/wp-content/uploads/2023/06/Jack-Quinns-Banquet-Information-Spring-Summer-2023.pdf   <br>
@@ -90,5 +84,8 @@ pricing pdf = https://pricing-sheets.s3.amazonaws.com/22739429-1907-48b2-ae03-a4
 website = https://boulder.avantifandb.com/
 ### ------------------------------------------------------------------------- ###
 
+## 3.) Rayback Collective ##
+website = https://www.therayback.com/events
+### ------------------------------------------------------------------------- ###
 
 
