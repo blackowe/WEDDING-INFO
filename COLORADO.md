@@ -61,14 +61,21 @@ Need to email for event pricing - probably expensive?
 
 
 # Denver (GOLDEN) #
-## 1.) Goosetown Station ##
 
-### ------------------------------------------------------------------------ ###
-## 2.) Crystal Rose  ##
+## 1.)  Colorado Tap House    ##
+website = https://www.coloradotaphouse.com/     <br>
+(needs catering)
+### ------------------------------------------------------------------------- ###
+
+## 2.) Buffalo Rose (Deck or Back Patio) ##
+website = https://buffalorosegolden.com/weddings/
+### ------------------------------------------------------------------------- ###
+
+## 3.) Crystal Rose  ##
 website = https://www.herecomestheguide.com/wedding-venues/colorado/crystal-rose-highlands-ranch  <br>
 ### ------------------------------------------------------------------------ ###
 
-## 3.) The Pines by Wedgewood Weddings ##
+## 4.) The Pines by Wedgewood Weddings ##
 website = https://www.theknot.com/marketplace/the-pines-by-wedgewood-weddings-golden-co-367449
 pricing = https://pricing-sheets.s3.amazonaws.com/55664874-dfef-4cae-be29-3a64c561c5ff/c5b9091deab3795eec43b7ff11657118397c6004/cd8e0623-f60e-4f6a-8d28-4af38abffae4
 
@@ -77,9 +84,11 @@ pricing = https://pricing-sheets.s3.amazonaws.com/55664874-dfef-4cae-be29-3a64c5
 ## 1.) Museum of Contemporary Arts
 website = https://www.theknot.com/marketplace/boulder-museum-of-contemporary-art-boulder-co-888035
 pricing pdf = https://pricing-sheets.s3.amazonaws.com/22739429-1907-48b2-ae03-a4d101192b3e/78cdbfe82a4e066d1afb26915e41abd232c546ca/76bfe812-250e-4f12-a364-911c5ead381b
+### ------------------------------------------------------------------------- ###
 
+## 2.) Avanti ##
+website = https://boulder.avantifandb.com/
+### ------------------------------------------------------------------------- ###
 
-# VRBO WEDDING - Granby, CO #
-website = https://www.vrbo.com/2551687?dateless=true&x_pwa=1&rfrr=HSR&pwa_ts=1703163276147&referrerUrl=aHR0cHM6Ly93d3cudnJiby5jb20vSG90ZWwtU2VhcmNo&useRewards=true&adults=2&regionId=10769&destination=Granby%2C+Colorado%2C+United+States+of+America&destType=MARKET&selected=73028144&latLong=40.08558%2C-105.94071&privacyTrackingState=CAN_TRACK&searchId=2677b79c-fe9b-4bf0-ad0b-2199cc13fa96&sort=RECOMMENDED&userIntent=&expediaPropertyId=73028144
 
 
