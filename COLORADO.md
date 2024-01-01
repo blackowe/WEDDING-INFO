@@ -65,26 +65,13 @@ website = https://www.coloradotaphouse.com/     <br>
 website = https://buffalorosegolden.com/weddings/
 ### ------------------------------------------------------------------------- ###
 
-## 3.) Crystal Rose  ##
-website = https://www.herecomestheguide.com/wedding-venues/colorado/crystal-rose-highlands-ranch  <br>
-### ------------------------------------------------------------------------ ###
-
-## 4.) The Pines by Wedgewood Weddings ##
-website = https://www.theknot.com/marketplace/the-pines-by-wedgewood-weddings-golden-co-367449
-pricing = https://pricing-sheets.s3.amazonaws.com/55664874-dfef-4cae-be29-3a64c561c5ff/c5b9091deab3795eec43b7ff11657118397c6004/cd8e0623-f60e-4f6a-8d28-4af38abffae4
-
 # Boulder  #
 
-## 1.) Museum of Contemporary Arts
-website = https://www.theknot.com/marketplace/boulder-museum-of-contemporary-art-boulder-co-888035
-pricing pdf = https://pricing-sheets.s3.amazonaws.com/22739429-1907-48b2-ae03-a4d101192b3e/78cdbfe82a4e066d1afb26915e41abd232c546ca/76bfe812-250e-4f12-a364-911c5ead381b
-### ------------------------------------------------------------------------- ###
-
-## 2.) Avanti ##
+##  Avanti ##
 website = https://boulder.avantifandb.com/
 ### ------------------------------------------------------------------------- ###
 
-## 3.) Rayback Collective ##
+##  Rayback Collective ##
 website = https://www.therayback.com/events
 ### ------------------------------------------------------------------------- ###
 
