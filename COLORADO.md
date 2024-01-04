@@ -68,6 +68,14 @@ website = https://www.coloradotaphouse.com/     <br>
 website = https://buffalorosegolden.com/weddings/
 ### ------------------------------------------------------------------------- ###
 
+## 3.) new terrain brewing, golden CO ##
+website = https://newterrainbrewing.com/
+### ------------------------------------------------------------------------- ###
+
+## 4.) the golden mill ##
+webite = https://thegoldenmill.com/live-events
+
+
 # Boulder  #
 
 ##  Avanti ##
