@@ -62,6 +62,13 @@ website = https://www.hillsidecolorado.com/ <br>
 need to email for pricing
 ### ------------------------------------------------------------------------- ###
 
+## The Warehouse Restaurant -  The Gallery Room ##
+website = https://www.thewarehouserestaurant.com/  <br>
+pricing/info pdf = https://static1.squarespace.com/static/58883a48a5790acfd741ac49/t/656fab65b5f2ff4358684c54/1701817189734/1-+2023+Banquet+Packet.pdf  <br>
+$400 weekday room rental  <br>
+$1000 weekend room rental
+### ------------------------------------------ ###
+
 # Denver (GOLDEN) #
 
 ## 1.)  Colorado Tap House    ##
