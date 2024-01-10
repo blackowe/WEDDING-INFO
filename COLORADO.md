@@ -57,6 +57,11 @@ space views = https://www.thecliffhouse.com/meetings/meeting-spaces
 (might not be able to have a band/dj)
 ### ------------------------------------------------------------------------- ###
 
+##  Hillside Garden and event center
+website = https://www.hillsidecolorado.com/ <br>
+need to email for pricing
+### ------------------------------------------------------------------------- ###
+
 # Denver (GOLDEN) #
 
 ## 1.)  Colorado Tap House    ##
