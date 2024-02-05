@@ -25,7 +25,12 @@ Need to get caterer
 ## 2. Vue Rooftop Bar (Dillon) ##
 website = https://www.vuerooftop-dillon.com/
 (bad food/reviews)
+### ---------------------------------------------------------------------- ###
 
+
+### ---------------------------------------------------------------------- ###
+## Check restaurants with patio/balcony rentout ## 
+website: https://giggster.com/search/Frisco--CO--USA/rooftop-party
 ### ---------------------------------------------------------------------- ###
 
 
@@ -56,6 +61,12 @@ website = https://www.wedding-spot.com/venue/2396/The-Cliff-House-at-Pikes-Peak/
 space views = https://www.thecliffhouse.com/meetings/meeting-spaces
 (might not be able to have a band/dj)
 ### ------------------------------------------------------------------------- ###
+
+### ------------------------------------------------------------- ###
+## Large outdoor patio and bar rental ##
+website: https://giggster.com/listing/bar-and-cafe-with-huge-outdoor-patio
+### ------------------------------------------------------------- ###
+
 
 ##  Hillside Garden and event center
 website = https://www.hillsidecolorado.com/ <br>
